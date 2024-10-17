@@ -3,17 +3,17 @@
         <nav class="MenuInicial">
             <a href="#inicio">INICIO</a>
             <a href="#servicios">SERVICIOS</a>
-            <img src="/src/assets/img/LogoB.png" alt="Logo">
+            <img src="/public/img/LogoB.png" alt="Logo">
             <a href="#galeria">GALERÍA</a>
             <a href="#contacto">CONTACTANOS</a>
         </nav>
         <div class="TextBienvenida">
-            <span><img src="/src/assets/svg/comillasLeft.svg" alt="Comillas"><strong>TU NEGOCIO </strong><i>AL MUNDO REAL</i><img src="/src/assets/svg/comillasRith.svg" alt="Comillas"></span> 
+            <span><img src="/public/svg/comillasLeft.svg" alt="Comillas"><strong>TU NEGOCIO </strong><i>AL MUNDO REAL</i><img src="/public/svg/comillasRith.svg" alt="Comillas"></span> 
         </div>
         <div class="MenuRedes">
-            <a href="https://api.whatsapp.com/send?phone=955500224" target="_blank"><img src="/src/assets/svg/brand-whatsapp.svg" alt="WhatsApp"></a>
-            <a href="https://www.instagram.com/amacreative_design/" target="_blank"><img src="/src/assets/svg/brand-instagram.svg" alt="Instagram"></a>
-            <a href="https://www.facebook.com/people/Ama-Creative-Desing/61559881574717/" target="_blank"><img src="/src/assets/svg/brand-facebook.svg" alt="Facebook"></a>
+            <a href="https://api.whatsapp.com/send?phone=955500224" target="_blank"><img src="/public/svg/brand-whatsapp.svg" alt="WhatsApp"></a>
+            <a href="https://www.instagram.com/amacreative_design/" target="_blank"><img src="/public/svg/brand-instagram.svg" alt="Instagram"></a>
+            <a href="https://www.facebook.com/people/Ama-Creative-Desing/61559881574717/" target="_blank"><img src="/public/svg/brand-facebook.svg" alt="Facebook"></a>
         </div>
     </header>
 </template>

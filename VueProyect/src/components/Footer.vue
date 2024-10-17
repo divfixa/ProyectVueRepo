@@ -2,12 +2,12 @@
     <footer>
         <div class="footer-container">
             <div class="footer-left">
-                <img src="/src/assets/img/LogoB.png" alt="LogoM" >
+                <img src="/public/img/LogoB.png" alt="LogoM" >
             </div>
             <div class="footer-right">
                     <div class="SectionDirect">
                         <div class="footer-item">
-                            <img src="/src/assets/svg/phone-solid.svg" alt="phone-solid">
+                            <img src="/public/svg/phone-solid.svg" alt="phone-solid">
                         </div>
                         <div>
                             <a href="tel:+51955500224">+51 955 500 224</a>
@@ -15,7 +15,7 @@
                     </div>
                     <div class="SectionDirect">
                         <div class="footer-item">
-                            <img src="/src/assets/svg/envelope-regular.svg" alt="envelope-regular">
+                            <img src="/public/svg/envelope-regular.svg" alt="envelope-regular">
                         </div>
                         <div>
                             <a href="mailto:alberto.diaz@amacreative.me">alberto.diaz@amacreative.me</a>
@@ -25,7 +25,7 @@
                     </div>
                     <div class="SectionDirect">
                         <div class="footer-item">
-                            <img src="/src/assets/svg/location-dot-solid.svg" alt="location-dot-solid">
+                            <img src="/public/svg/location-dot-solid.svg" alt="location-dot-solid">
                         </div>
                         <address>
                             Jr. Virgo 1193, Urb. Mercurio<br>

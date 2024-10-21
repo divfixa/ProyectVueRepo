@@ -35,7 +35,7 @@ a {
 header {
     height: 100vh;
     width: 100%;
-    background-image: url(/src/assets/img/FondoInicial.jpg);
+    background-image: url(/public/img/FondoInicial.jpg);
     background-size: cover;
     display: flex;
     flex-direction: column;

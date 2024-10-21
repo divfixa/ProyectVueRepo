@@ -14,7 +14,7 @@
                     </div>
                 </div>
                 <div>
-                    <label for="">Correo</label>
+                    <label for="">Correo Electónico</label>
                     <input type="email" name="" id="">
                 </div>
                 <div>
@@ -23,7 +23,7 @@
                 </div>
                 <div>
                     <label for="" style="color:#A798E4;">Condiciones Legales</label>
-                    <span><input type="checkbox">Acepto las condiciones generales de <a href="#" style="color:#A798E4;">Política de privacidad</a> y <a href="#" style="color:#A798E4;">Aviso legal</a></span>
+                    <span><input type="checkbox"> Acepto las condiciones generales de <a href="#" style="color:#A798E4;">Política de privacidad</a> y <a href="#" style="color:#A798E4;">Aviso legal</a></span>
                 </div>
                 <span><button type="submit" style="background-color:#5F38AE;color: white;">ENVIAR</button></span>
             </div>
@@ -103,9 +103,21 @@ a {
     border-radius: 13px;
 }
 
+.form-Contacto> div>span{
+    font-size: 20px;
+}
 
-#LastName, .InputLastname{
+.form-Contacto label{
+    margin: 20px 0 5px 0;
+    font-size: 25px;
+}
+
+#LastName{
     margin-left: -100%;
+}
+
+.form-Contacto > div >div>.InputLastname{
+    margin-left:-100%;
 }
 
 .form-Contacto > span{
